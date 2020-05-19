@@ -1,8 +1,5 @@
 class Dog 
   
-  def fido 
-    
-  end
-  
-  
 end
+
+fido = D
